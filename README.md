@@ -1,4 +1,8 @@
-## Robust Multimodal Learning for Ophthalmic Disease Grading
+## FRFD: Feature-Refined and Disentangled Representations for Robust Multimodal Ophthalmic Disease Grading
+
+post:8193b27d97713d3459c6b45bf962bd1.jpg
+report:csci1470final (3).pdf
+reflection:midreflection (1).pdf
 
 This project studies multimodal ophthalmic disease grading with paired `fundus` and `OCT` inputs. The current runnable codebase uses a fusion pipeline built around:
 
