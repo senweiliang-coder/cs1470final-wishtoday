@@ -1,6 +1,6 @@
 ## FRFD: Feature-Refined and Disentangled Representations for Robust Multimodal Ophthalmic Disease Grading
 
-post:8193b27d97713d3459c6b45bf962bd1.jpg
+poster:poster.jpg
 report:csci1470final (4).pdf
 reflection:midreflection (1).pdf
 
